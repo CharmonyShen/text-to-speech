@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T16:13:47.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="T1vjjco98J8uI10rOwWe" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T16:16:49.465Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="mFRvx2uFsaYaYOqndLif" version="14.7.3" type="github">
   <diagram id="17m2rxXw0dN4xr8qYpAx" name="Page-1">
     <mxGraphModel dx="711" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="hI7UBE76GgQI_JwWD3R7-8" value="Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hI7UBE76GgQI_JwWD3R7-9" value="Oscar Network" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="235" width="100" height="20" as="geometry" />
+        <mxCell id="hI7UBE76GgQI_JwWD3R7-9" value="&lt;h4&gt;Oscar Network&lt;/h4&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="228.75" width="100" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="hI7UBE76GgQI_JwWD3R7-10" value="Features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="40" height="20" as="geometry" />
@@ -202,8 +202,8 @@
         <mxCell id="hI7UBE76GgQI_JwWD3R7-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="630" y="280" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hI7UBE76GgQI_JwWD3R7-66" value="Meta &amp;nbsp;Pseudo Labels" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="340" width="120" height="20" as="geometry" />
+        <mxCell id="hI7UBE76GgQI_JwWD3R7-66" value="&lt;h4&gt;Meta &amp;nbsp;Pseudo Labels&lt;/h4&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
