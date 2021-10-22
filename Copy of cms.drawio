@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T18:38:06.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="H6tjiPok6kTuZizZc1he" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T04:11:16.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="FWsb3CO4Ls5VF0l474Cd" version="15.5.7" type="github">
   <diagram id="Xz1zd2Fq9srYaQUPKxiW" name="Page-1">
-    <mxGraphModel dx="1219" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,12 +133,6 @@
         <mxCell id="Se4S-JmLy9C7secBmp55-78" value="Counter Information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="533" y="590" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Se4S-JmLy9C7secBmp55-79" value="θ1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="250" y="270" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Se4S-JmLy9C7secBmp55-80" value="θ2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="499" y="270" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Se4S-JmLy9C7secBmp55-81" value="α" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="58" y="400" width="60" height="30" as="geometry" />
         </mxCell>
@@ -179,7 +173,7 @@
           <mxGeometry x="329" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Se4S-JmLy9C7secBmp55-99" value="η" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="419" y="510" width="60" height="30" as="geometry" />
+          <mxGeometry x="428" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o6cxU4XFg6qUi4nE2hEN-1" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=#000000;strokeColor=#000000;exitX=0.856;exitY=-0.01;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;" edge="1" parent="1" source="qSjlCEyF0LNPJPu73GT9-17" target="Se4S-JmLy9C7secBmp55-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
